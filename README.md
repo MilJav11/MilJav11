@@ -15,7 +15,7 @@ I come from QA automation and now focus on testing and securing LLM/AI systems: 
 
 ## How I work
 
-I build with AI coding agents: Claude Code as the lead, Mistral (via Vibe CLI / OpenCode) for smaller tasks. A human stays in the loop:
+I build with several AI coding agents – Claude Code as the lead, plus Codex and Mistral (Vibe CLI / OpenCode), in Zed and Antigravity. A human stays in the loop:
 
 - agents work on branches, never directly on `main`
 - git hooks block pushes and changes to `main`
