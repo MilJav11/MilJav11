@@ -12,6 +12,7 @@ I come from QA automation and now focus on testing and securing LLM/AI systems: 
 - **[playwright-python-e2e-framework](https://github.com/MilJav11/playwright-python-e2e-framework)**: BDD E2E suite (pytest-bdd, Page Object Model) with a credential-free demo suite gating CI and a manual live-email suite. Python, Playwright, GitHub Actions.
 - **[triglav-harness](https://github.com/MilJav11/triglav-harness)**: experimental public preview of a local Python coding controller.
 - **[repo-guard](https://github.com/MilJav11/repo-guard)**: fast local git guardrail against accidental secret leaks in AI-generated code. Python.
+- **[prompt-refinery](https://github.com/MilJav11/prompt-refinery)**: Architect → Referee pipeline that turns raw tasks into contract-validated prompts for AI IDE agents, with an MCP server, Streamlit GUI and 258 offline tests. Python.
 
 ## How I work
 
