@@ -37,4 +37,4 @@ Also: pytest-bdd, ChromaDB, LLM APIs (OpenRouter, Groq).
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/javorsk%C3%BD/)
+[javorsky.dev](https://javorsky.dev) · [LinkedIn](https://www.linkedin.com/in/javorský)
